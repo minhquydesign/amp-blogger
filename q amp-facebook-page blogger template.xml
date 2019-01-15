@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<HTML amp='amp' lang='vi'>
+  &lt;head&gt;
+  <meta charset='utf-8'/>
+  <meta content='width=device-width,minimum-scale=1,initial-scale=1,user-scalable=no,minimal-ui' name='viewport'/>
+  <link expr:href='data:blog.canonicalUrl' rel='canonical'/>
+  <title><data:blog.title/></title>
+  <b:if cond='data:blog.metaDescription'>
+    <meta expr:content='data:blog.metaDescription' name='description'/>
+  </b:if>
+<!-- B:SKIN FOR AMP -->
+&lt;!-- /*<b:skin><![CDATA[*/]]></b:skin>
+<!-- STYLE AMP-CUSTOM -->
+<style amp-custom='amp-custom'>body{background:#ddd;color:#111}
+</style>
+<!-- AMPPROJECT -->
+<style amp-boilerplate='amp-boilerplate'>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate='amp-boilerplate'>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async='async' src='https://cdn.ampproject.org/v0.js'/>
+<!-- IMPORT THE AMP-FACEBOOK-PAGE COMPONENT -->
+<script async='async' custom-element='amp-facebook-page' src='https://cdn.ampproject.org/v0/amp-facebook-page-0.1.js'/>
+<script async='async' custom-element='amp-sidebar' src='https://cdn.ampproject.org/v0/amp-sidebar-0.1.js'/>
+<script async='async' custom-element='amp-form' src='https://cdn.ampproject.org/v0/amp-form-0.1.js'/>
+<script async='async' custom-element='amp-social-share' src='https://cdn.ampproject.org/v0/amp-social-share-0.1.js'/>
+<script async='async' custom-element='amp-iframe' src='https://cdn.ampproject.org/v0/amp-iframe-0.1.js'/>
+<script async='async' custom-element='amp-youtube' src='https://cdn.ampproject.org/v0/amp-youtube-0.1.js'/>
+<script async='async' custom-element='amp-image-lightbox' src='https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js'/>
+<script async='async' custom-element='amp-list' src='https://cdn.ampproject.org/v0/amp-list-0.1.js'/>
+<!--<script async='async' custom-template='amp-mustache' src='https://cdn.ampproject.org/v0/amp-mustache-0.1.js'/>-->
+<script async='async' custom-element='amp-analytics' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js'/>
+<script async='async' custom-element='amp-carousel' src='https://cdn.ampproject.org/v0/amp-carousel-0.1.js'/>
+<script async='async' custom-element='amp-ad' src='https://cdn.ampproject.org/v0/amp-ad-0.1.js'/>
+<script async='async' custom-element='amp-accordion' src='https://cdn.ampproject.org/v0/amp-accordion-0.1.js'/>
+<script async='async' custom-element='amp-facebook' src='https://cdn.ampproject.org/v0/amp-facebook-0.1.js'/>
+
+&lt;/head&gt;&lt;!--<head/>--&gt;
+
+<body itemscope='itemscope' itemtype='http://schema.org/WebPage'>
+
+    <amp-facebook-page data-href='https://www.facebook.com/minhquydesign/' data-tabs='timeline, events,messages' height='1000' layout='responsive' width='340'>
+    </amp-facebook-page>
+
+    <b:section class='header' id='header' maxwidgets='1' showaddelement='yes'/>
+&lt;!--</body>--&gt;&lt;/body&gt;
+</HTML>
